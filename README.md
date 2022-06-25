@@ -1,3 +1,4 @@
 # Introduction to programming
-This is the lab problem and problems sets from my computer science 1001 course in Memorial University of Newfoundland.
-It is also my first github repository.
+Lab problems and problem sets from computer science 1001 written in Python.
+My very first computer science course in MUN. This is where I started coding in Python.
+Also my first github repository.
